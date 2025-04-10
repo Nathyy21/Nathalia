@@ -25,7 +25,7 @@ Skills:
 Contact:
 <div>
   <a href = "mailto:nathbarodrigues25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href ="nath_4lia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href ="https://instagram.com/nath_4lia" traget="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
 </div>
   
