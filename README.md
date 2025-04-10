@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7A1452&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Sejam+Bem+Vindos+!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C501E2&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Sejam+Bem+Vindos+!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -12,14 +12,14 @@
 ##
 <div>
   <a href="https://github.com/Nathhy21/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathyy21&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula"/>
-    <img height= "120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathyy21&layout=compact&langs_count=168&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nathyy21&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"/>
+    <img height= "120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathyy21&layout=compact&langs_count=168&theme=radical"/>
 <div>
     
 ##
 Skills:
  <div>
-   <img align="center" alt="Nathhy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Nathhy21-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ##
 Contact:
@@ -29,9 +29,8 @@ Contact:
     
 ##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathyy21/Nathyy21/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathyy21/Nathyy21/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nathyy21/Nathyy21/output/github-contribution-grid-snake.svg">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-<br><br>
