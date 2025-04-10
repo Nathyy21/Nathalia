@@ -1,7 +1,7 @@
 ### Oiê! Eu sou a Nathalia 🤓👍
 
-- Atualmente estudando sobre ADS
-- Estudando Python
+- Atualmente estudando DS (Desenvolvimento de Sistemas) pelo SENAI
+- Estudando Pyhton no momento
 - Pronomes: ela/dela
 ##
 <div>
