@@ -7,6 +7,7 @@
 <div>
   <a href="https://github.com/Nathhy21/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathyy21&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula"/>
+    <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathyy21&layout=compact&langs_count=168&theme=dracula"/>
 <div>
     
 ##
@@ -18,5 +19,4 @@ Skills:
 Contact:
 <div>
   <a href = "mailto:nathbarodrigues25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  
 </div>
