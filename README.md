@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7A1452&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Sejam+Bem+Vindos+!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 ### Oiê! Eu sou a Nathalia 🤓👍
 
 - Atualmente estudando DS (Desenvolvimento de Sistemas) pelo SENAI
@@ -20,4 +26,6 @@ Contact:
 <div>
   <a href = "mailto:nathbarodrigues25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
+    
+##
 
