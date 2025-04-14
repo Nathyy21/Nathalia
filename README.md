@@ -30,6 +30,9 @@ Contact:
 </div>
   
 ##
-![snake gif](https://github.com/Nathyy21/Nathalia/blob/output/github-contribution-grid-snake.svg)
 
+<img height="160em" src="https://www.whiskas.com.br/sites/g/files/fnmzdf2156/files/inline-images/nomes-para-gato-preto.png"/>
+<img height="160em" src="https://institutoamparanimal.org.br/wp-content/uploads/2023/10/gato_preto_ampara_petlove_.png"/>
+<img height="160em" src="https://gatices.blogfolha.uol.com.br/files/2021/08/luna.jpg"/>
+<img height="160em" src="https://institutoamparanimal.org.br/wp-content/uploads/2023/10/gato_preto_ampara_petlove.png"/>
 
