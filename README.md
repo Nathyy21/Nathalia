@@ -7,8 +7,7 @@
 ### Oiê! Eu sou a Nathalia 🤓👍
 
 - Atualmente estudando DS (Desenvolvimento de Sistemas) pelo SENAI
-- Estudando linguagens de Marcação
-- Pronomes: ela/dela
+
 ##
 <div>
   <a href="https://github.com/Nathhy21/">
